@@ -40,10 +40,10 @@ while True:
 
 ## OUTPUT:
 ### CLIENT:
-![alt text](<client exp1b comp net.png>)
+![client exp1b comp net](https://github.com/user-attachments/assets/5cb297e4-6720-4ff6-b0d6-c2957a097f40)
 
 ### SERVER:
-![alt text](<server exp1b comp net.png>)
+![server exp1b comp net](https://github.com/user-attachments/assets/450fad0d-b7f9-4000-b3b3-897213a3f446)
 
 ## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
